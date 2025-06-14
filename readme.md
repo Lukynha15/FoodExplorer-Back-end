@@ -64,6 +64,16 @@ src/
 
 ---
 
+## Rotas Principais
+
+/users: Cadastro e atualização de usuários
+
+/sessions: Autenticação de usuários (login)
+
+/dishes: CRUD de pratos (criação, listagem, atualização, deleção)
+
+---
+
 ## Scripts
 
 - `npm run dev`: Executa o servidor com Nodemon.
@@ -89,8 +99,4 @@ Desenvolvido por Lucas Assmann.
 Este projeto está licenciado sob a licença ISC.
 
 ---
-
-## Contato
-
-[Seu LinkedIn ou email aqui]
 
